@@ -38,3 +38,34 @@ ClassName(parameters) {
 #### Destructor 
 A destructor is a special member function that is automatically called when an object goes out of scope or is explicitly deleted. The destructor has the same name as the class, preceded by a tilde (~), and it has no return type or parameters. Destructors are primarily used to release resources, such as memory or file handles, ensuring that objects clean up after themselves when they are no longer needed.
 ## Output:
+1. Default constructor 
+
+![image](https://github.com/user-attachments/assets/08ccd8c1-f495-4313-8d9e-078e444f3e54)
+
+2. Parameterized constructor:
+
+![image](https://github.com/user-attachments/assets/67a68ea5-5b92-4ef4-81dd-b2ffbe52dab6)
+
+3. Copy constructor 
+
+![image](https://github.com/user-attachments/assets/f039d04c-476c-4559-b9a0-135b75356f21)
+
+4. Constructor with arguements 
+
+![image](https://github.com/user-attachments/assets/e4dcac3c-c148-447f-84a3-aa924e7ca468)
+
+5. Constructor 
+
+![image](https://github.com/user-attachments/assets/b723419e-b322-4ac4-9600-58f68ee92d04)
+
+
+![image](https://github.com/user-attachments/assets/fee8562b-3dab-42cb-bd53-3e0a85b7bac8)
+
+6. Destructor 
+
+![image](https://github.com/user-attachments/assets/fee915a0-566f-4682-a9f2-8e63cc1ec7e4)
+
+
+## Conclusion:
+We learned how to implement constructors and destructors in C++.
+
