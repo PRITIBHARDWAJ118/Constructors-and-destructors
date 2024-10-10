@@ -1,6 +1,6 @@
 # Constructors-and-destructors
 ## AIM:-
-Constructors in C++
+Constructors and destructors in C++
 
 ## Software used:-
 VS code
